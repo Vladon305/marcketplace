@@ -4,7 +4,7 @@ import { FeaturedAgents } from "./components/FeaturedAgents";
 
 const AgentCollective = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen w-screen bg-white">
       <Navigation />
       <main>
         <HeroSection />
